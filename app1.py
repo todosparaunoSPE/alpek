@@ -536,6 +536,6 @@ with col2:
 st.markdown("---")
 st.markdown(f"""
 <div style="text-align:center;color:#7f8c8d;font-size:14px;">
-    <p>Portafolio interactivo desarrollado con Streamlit y Python | Última actualización: {datetime.now().strftime("%d/%m/%Y")}</p>
+    <p>Portafolio interactivo desarrollado con Python | Última actualización: {datetime.now().strftime("%d/%m/%Y")}</p>
 </div>
 """, unsafe_allow_html=True)
