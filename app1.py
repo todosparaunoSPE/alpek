@@ -107,7 +107,7 @@ with st.sidebar:
     st.markdown("""
     **Acerca de este portafolio**  
     Herramienta interactiva para análisis financiero  
-    Desarrollado por Javier Pérez  
+    Desarrollado por Javier Horacio Pérez Ricárdez 
     Versión 1.0
     """)
 
